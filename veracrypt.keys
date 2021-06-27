@@ -1,0 +1,11 @@
+# This file contains VeraCrypt passwords, one per line.
+# Empty lines, and comments beginning from # are allowed in this file.
+#
+# Multiple veracrypt.keys files are allowed - each in separate repository.
+# When multiple such files are detected, all passwords are tested against all possible VeraCrypt partitions.
+
+# laptop password
+MyFancyPassword
+
+# desktop password
+MyVCBootPassword123
